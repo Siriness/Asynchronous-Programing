@@ -80,22 +80,6 @@ async function parallelCalls(urls) {
 - Basic knowledge of JavaScript
 - Node.js installed on your machine
 
-### Installation
-1. Clone this repository:
-```
-git clone https://github.com/yourusername/async-js-exercises.git
-```
-
-2. Navigate to the repository folder:
-```
-cd async-js-exercises
-```
-
-3. Run the exercises using Node.js:
-```
-node index.js
-```
-
 ## Learning Path
 
 For those new to asynchronous programming, I recommend following these exercises in order:
@@ -115,10 +99,3 @@ To deepen your understanding of asynchronous JavaScript, check out these resourc
 - [JavaScript.info: Promises, async/await](https://javascript.info/async)
 - [Node.js Documentation: Promises](https://nodejs.org/api/promises.html)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-Feel free to submit pull requests with additional exercises or improvements to the existing ones. For major changes, please open an issue first to discuss what you would like to change.
